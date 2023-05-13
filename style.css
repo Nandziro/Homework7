@@ -1,0 +1,70 @@
+.button-collapse{
+    color: black;
+    width: 150px;
+    height: 60px;
+    background-color: lime;
+    transition: 2s;
+}
+.button-collapse:hover{
+    background-color: midnightblue;
+    color: yellow;
+}
+.btn {
+}
+.btn-primary {
+}
+.collapse {
+}
+.collapse-horizontal {
+}
+.card {
+}
+.card-body {
+}
+.card-img-top {
+}
+.card-title {
+    color: greenyellow;
+}
+.card-text {
+    color: forestgreen;
+}
+.more-button{
+    color: black;
+    background-color: maroon;
+    transition: 3s;
+}
+.modal {
+}
+.fade {
+}
+.modal-dialog {
+}
+.modal-content {
+}
+.modal-header {
+}
+.modal-title {
+}
+.fs-5 {
+}
+.btn-close {
+}
+.modal-body {
+}
+.modal-footer {
+}
+.btn-secondary {
+    transition: 2s;
+}
+.btn-secondary:hover{
+    background-color: rgb(212, 8, 8);
+    color: black;
+}
+.btn-like{
+    transition: 2s;
+}
+.btn-like:hover{
+    background-color: aqua;
+    color: lightsalmon;
+}
